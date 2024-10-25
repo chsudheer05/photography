@@ -1,0 +1,149 @@
+
+ .bannnu {
+    width: 1150x;
+    height: 1570px;
+    min-width: 576px;
+    background-image: url("../bb.jpg");
+}
+.iam:hover{
+    border: 4px solid whitesmoke;
+    border-radius: 100px;
+    transition-property:background-color;
+    background-color:black;
+    transition-duration: 1s;
+}
+.iamm:hover{
+    border: 4px solid whitesmoke;
+    border-radius: 100px;
+    transition-property:background-color;
+    background-color:black;
+    transition-duration: 1s;
+}
+.iammm:hover{
+    border: 4px solid whitesmoke;
+    border-radius: 100px;
+    transition-property:background-color;
+    background-color:black;
+    transition-duration: 1s;
+}
+.matt{
+    width: 180px;
+    height: 100px;
+    background-color: aliceblue;
+    border: solid orange 2px;
+    border-radius: 100px;
+    text-align: center;
+    margin-left: 100px;
+    padding-top: 70px;
+    font-size: medium;
+    font-family: cursive;
+    font-weight: 900;
+}
+.mat{
+    width: 180px;
+    height: 100px;
+    background-color: aliceblue;
+    border: orange 2px solid;
+    border-radius: 100px;
+    padding-top:70px; 
+    padding-left: 20px;
+    font-weight: 900;
+    margin-left: 160px;
+    text-align: center;
+    font-size: medium;
+    font-family: cursive;
+}
+.exp{
+    width: 1205px;
+    height: 300px;
+    min-width: 576px;
+    background-color:black;
+    border: white 2px solid;
+    padding-top:30px; 
+    padding-left: 33px;
+    font-weight: 900;
+    text-align: left;
+    font-size: 80px;
+    font-family: cursive;
+    opacity: 70%;
+    color: aliceblue;
+    padding-left: 60px;
+}
+.blo{
+    width: 1185px;
+    height: 200px;
+    min-width: 576px;
+    background-color:black;
+    border: white 2px solid;
+    padding-top:40px; 
+    padding-left:80px;
+    padding-bottom: 50px;
+    font-weight: 900;
+    text-align: left;
+    font-size: 50px;
+    font-family: cursive;
+    color: aliceblue;
+   opacity: 70%;
+   
+}
+.expp{
+    width: 100px;
+    height: 300px;
+    background-color:black;
+    border: white 2px solid;
+    padding-top:30px; 
+    padding-left: 20px;
+    font-weight: 900;
+    margin-left: 120px;
+    text-align: center;
+    font-size: 80px;
+    font-family: cursive;
+    opacity: 70%;
+    color: aliceblue;
+    float: middle;
+    margin-top: 200px;
+}
+
+
+.pic{
+    width: 80px;
+    height: 80px;
+    margin-bottom: 1px;
+    
+}
+.ss{
+    float: right;
+    font-size: 40px;
+    margin-right: 250px;
+    color: cornsilk;
+    width: 650px;
+    border-bottom: pink solid 2px;
+    min-width: 576px;
+    text-align: center;
+}
+.sss{
+    float: right;
+    font-size: 30px;
+    margin-right: 250px;
+    color: cornsilk;
+    width: 500px;
+    text-align: center;
+    border: solid skyblue 1px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 150px;
+
+
+}
+.hh{
+    width: 60px;
+    height: 60px;
+    float: left;
+    padding-left: 15px;
+    border: black solid px;
+    padding-right: 15px;
+    border-radius: 100px;
+    position: fixed;
+    right: 2px;
+    
+}
